@@ -1,0 +1,29 @@
+{
+  "name": "decorator-initial-properties",
+  "version": "1.0.0",
+  "description": "Declaratively define initial properties for classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require babelhook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shovon/decorator-initial-properties.git"
+  },
+  "keywords": [
+    "classes",
+    "initial-values",
+    "helper"
+  ],
+  "author": "Salehen Shovon Rahman <sal@linux.com> (http://shovon.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shovon/decorator-initial-properties/issues"
+  },
+  "homepage": "https://github.com/shovon/decorator-initial-properties#readme",
+  "devDependencies": {
+    "babel": "^5.5.8",
+    "expect.js": "^0.3.1",
+    "mocha": "^2.2.5"
+  }
+}
